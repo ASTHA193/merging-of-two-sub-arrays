@@ -1,2 +1,2 @@
 # merging-of-two-sub-arrays
-code for merging two sub-arrays.
+ A C program which is used to merge two arrays acccordingly.
